@@ -11,7 +11,7 @@ C:\xampp\htdocs\colegios>git commit -m "primer commit"
  2 files changed, 241 insertions(+)
  create mode 100644 colegios.xml
  create mode 100644 colegios.xsl
-C:\xampp\htdocs\xlm_colegios>git remote add origin https://github.com/123manolo52/E1UF2217.git
+C:\xampp\htdocs\xlm_colegios>git remote add origin https://github.com/123manolo52/ppf 20/06/2025.git
 C:\xampp\htdocs\colegios>git branch main
 C:\xampp\htdocs\colegios>git push -u origin main
 info: please complete authentication in your browser...
